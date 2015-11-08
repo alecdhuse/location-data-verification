@@ -1,0 +1,1021 @@
+{
+    "description": "Country names to ISO 3166-1 alpha-1 and alpha-2 codes. Not guaranteed to be complete or accurate.",
+    "countries": {
+        "Afghanistan": {
+            "ISO 3166-1 alpha-2": "AF",
+            "ISO 3166-1 alpha-3": "AFG"
+        },
+        "Åland Islands": {
+            "ISO 3166-1 alpha-2": "AX",
+            "ISO 3166-1 alpha-3": "ALA"
+        },
+        "Albania": {
+            "ISO 3166-1 alpha-2": "AL",
+            "ISO 3166-1 alpha-3": "ALB"
+        },
+        "Algeria": {
+            "ISO 3166-1 alpha-2": "DZ",
+            "ISO 3166-1 alpha-3": "DZA"
+        },
+        "American Samoa": {
+            "ISO 3166-1 alpha-2": "AS",
+            "ISO 3166-1 alpha-3": "ASM"
+        },
+        "Andorra": {
+            "ISO 3166-1 alpha-2": "AD",
+            "ISO 3166-1 alpha-3": "AND"
+        },
+        "Angola": {
+            "ISO 3166-1 alpha-2": "AO",
+            "ISO 3166-1 alpha-3": "AGO"
+        },
+        "Anguilla": {
+            "ISO 3166-1 alpha-2": "AI",
+            "ISO 3166-1 alpha-3": "AIA"
+        },
+        "Antarctica": {
+            "ISO 3166-1 alpha-2": "AQ",
+            "ISO 3166-1 alpha-3": "ATA"
+        },
+        "Antigua and Barbuda": {
+            "ISO 3166-1 alpha-2": "AG",
+            "ISO 3166-1 alpha-3": "ATG"
+        },
+        "Aotearoa": {
+            "ISO 3166-1 alpha-2": "NZ",
+            "ISO 3166-1 alpha-3": "NZL"
+        },
+        "Argentina": {
+            "ISO 3166-1 alpha-2": "AR",
+            "ISO 3166-1 alpha-3": "ARG"
+        },
+        "Armenia": {
+            "ISO 3166-1 alpha-2": "AM",
+            "ISO 3166-1 alpha-3": "ARM"
+        },
+        "Aruba": {
+            "ISO 3166-1 alpha-2": "AW",
+            "ISO 3166-1 alpha-3": "ABW"
+        },
+        "Australia": {
+            "ISO 3166-1 alpha-2": "AU",
+            "ISO 3166-1 alpha-3": "AUS"
+        },
+        "Austria": {
+            "ISO 3166-1 alpha-2": "AT",
+            "ISO 3166-1 alpha-3": "AUT"
+        },
+        "Azerbaijan": {
+            "ISO 3166-1 alpha-2": "AZ",
+            "ISO 3166-1 alpha-3": "AZE"
+        },
+        "Bahamas": {
+            "ISO 3166-1 alpha-2": "BS",
+            "ISO 3166-1 alpha-3": "BHS"
+        },
+        "Bahrain": {
+            "ISO 3166-1 alpha-2": "BH",
+            "ISO 3166-1 alpha-3": "BHR"
+        },
+        "Bangladesh": {
+            "ISO 3166-1 alpha-2": "BD",
+            "ISO 3166-1 alpha-3": "BGD"
+        },
+        "Barbados": {
+            "ISO 3166-1 alpha-2": "BB",
+            "ISO 3166-1 alpha-3": "BRB"
+        },
+        "Belarus": {
+            "ISO 3166-1 alpha-2": "BY",
+            "ISO 3166-1 alpha-3": "BLR"
+        },
+        "Belgium": {
+            "ISO 3166-1 alpha-2": "BE",
+            "ISO 3166-1 alpha-3": "BEL"
+        },
+        "Belize": {
+            "ISO 3166-1 alpha-2": "BZ",
+            "ISO 3166-1 alpha-3": "BLZ"
+        },
+        "Benin": {
+            "ISO 3166-1 alpha-2": "BJ",
+            "ISO 3166-1 alpha-3": "BEN"
+        },
+        "Bermuda": {
+            "ISO 3166-1 alpha-2": "BM",
+            "ISO 3166-1 alpha-3": "BMU"
+        },
+        "Bhutan": {
+            "ISO 3166-1 alpha-2": "BT",
+            "ISO 3166-1 alpha-3": "BTN"
+        },
+        "Bolivia": {
+            "ISO 3166-1 alpha-2": "BO",
+            "ISO 3166-1 alpha-3": "BOL"
+        },
+        "Bolivia, Plurinational State of": {
+            "ISO 3166-1 alpha-2": "BO",
+            "ISO 3166-1 alpha-3": "BOL"
+        },
+        "Bonaire, Sint Eustatius and Saba": {
+            "ISO 3166-1 alpha-2": "BQ",
+            "ISO 3166-1 alpha-3": "BES"
+        },
+        "Bosnia and Herzegovina": {
+            "ISO 3166-1 alpha-2": "BA",
+            "ISO 3166-1 alpha-3": "BIH"
+        },
+        "Botswana": {
+            "ISO 3166-1 alpha-2": "BW",
+            "ISO 3166-1 alpha-3": "BWA"
+        },
+        "Bouvet Island": {
+            "ISO 3166-1 alpha-2": "BV",
+            "ISO 3166-1 alpha-3": "BVT"
+        },
+        "Brazil": {
+            "ISO 3166-1 alpha-2": "BR",
+            "ISO 3166-1 alpha-3": "BRA"
+        },
+        "British Indian Ocean Territory": {
+            "ISO 3166-1 alpha-2": "IO",
+            "ISO 3166-1 alpha-3": "IOT"
+        },
+        "Brunei Darussalam": {
+            "ISO 3166-1 alpha-2": "BN",
+            "ISO 3166-1 alpha-3": "BRN"
+        },
+        "Bulgaria": {
+            "ISO 3166-1 alpha-2": "BG",
+            "ISO 3166-1 alpha-3": "BGR"
+        },
+        "Burkina Faso": {
+            "ISO 3166-1 alpha-2": "BF",
+            "ISO 3166-1 alpha-3": "BFA"
+        },
+        "Burundi": {
+            "ISO 3166-1 alpha-2": "BI",
+            "ISO 3166-1 alpha-3": "BDI"
+        },
+        "Cabo Verde": {
+            "ISO 3166-1 alpha-2": "CV",
+            "ISO 3166-1 alpha-3": "CPV"
+        },
+        "Cambodia": {
+            "ISO 3166-1 alpha-2": "KH",
+            "ISO 3166-1 alpha-3": "KHM"
+        },
+        "Cameroon": {
+            "ISO 3166-1 alpha-2": "CM",
+            "ISO 3166-1 alpha-3": "CMR"
+        },
+        "Canada": {
+            "ISO 3166-1 alpha-2": "CA",
+            "ISO 3166-1 alpha-3": "CAN"
+        },
+        "Cayman Islands": {
+            "ISO 3166-1 alpha-2": "KY",
+            "ISO 3166-1 alpha-3": "CYM"
+        },
+        "Central African Republic": {
+            "ISO 3166-1 alpha-2": "CF",
+            "ISO 3166-1 alpha-3": "CAF"
+        },
+        "Chad": {
+            "ISO 3166-1 alpha-2": "TD",
+            "ISO 3166-1 alpha-3": "TCD"
+        },
+        "Chile": {
+            "ISO 3166-1 alpha-2": "CL",
+            "ISO 3166-1 alpha-3": "CHL"
+        },
+        "China": {
+            "ISO 3166-1 alpha-2": "CN",
+            "ISO 3166-1 alpha-3": "CHN"
+        },
+        "Christmas Island": {
+            "ISO 3166-1 alpha-2": "CX",
+            "ISO 3166-1 alpha-3": "CXR"
+        },
+        "Cocos (Keeling) Islands": {
+            "ISO 3166-1 alpha-2": "CC",
+            "ISO 3166-1 alpha-3": "CCK"
+        },
+        "Colombia": {
+            "ISO 3166-1 alpha-2": "CO",
+            "ISO 3166-1 alpha-3": "COL"
+        },
+        "Comoros": {
+            "ISO 3166-1 alpha-2": "KM",
+            "ISO 3166-1 alpha-3": "COM"
+        },
+        "Congo": {
+            "ISO 3166-1 alpha-2": "CG",
+            "ISO 3166-1 alpha-3": "COG"
+        },
+        "Congo, the Democratic Republic of the": {
+            "ISO 3166-1 alpha-2": "CD",
+            "ISO 3166-1 alpha-3": "COD"
+        },
+        "Cook Islands": {
+            "ISO 3166-1 alpha-2": "CK",
+            "ISO 3166-1 alpha-3": "COK"
+        },
+        "Costa Rica": {
+            "ISO 3166-1 alpha-2": "CR",
+            "ISO 3166-1 alpha-3": "CRI"
+        },
+        "Côte d'Ivoire": {
+            "ISO 3166-1 alpha-2": "CI",
+            "ISO 3166-1 alpha-3": "CIV"
+        },
+        "Croatia": {
+            "ISO 3166-1 alpha-2": "HR",
+            "ISO 3166-1 alpha-3": "HRV"
+        },
+        "Cuba": {
+            "ISO 3166-1 alpha-2": "CU",
+            "ISO 3166-1 alpha-3": "CUB"
+        },
+        "Curaçao": {
+            "ISO 3166-1 alpha-2": "CW",
+            "ISO 3166-1 alpha-3": "CUW"
+        },
+        "Cyprus": {
+            "ISO 3166-1 alpha-2": "CY",
+            "ISO 3166-1 alpha-3": "CYP"
+        },
+        "Czech Republic": {
+            "ISO 3166-1 alpha-2": "CZ",
+            "ISO 3166-1 alpha-3": "CZE"
+        },
+        "Denmark": {
+            "ISO 3166-1 alpha-2": "DK",
+            "ISO 3166-1 alpha-3": "DNK"
+        },
+        "Djibouti": {
+            "ISO 3166-1 alpha-2": "DJ",
+            "ISO 3166-1 alpha-3": "DJI"
+        },
+        "Dominica": {
+            "ISO 3166-1 alpha-2": "DM",
+            "ISO 3166-1 alpha-3": "DMA"
+        },
+        "Dominican Republic": {
+            "ISO 3166-1 alpha-2": "DO",
+            "ISO 3166-1 alpha-3": "DOM"
+        },
+        "Ecuador": {
+            "ISO 3166-1 alpha-2": "EC",
+            "ISO 3166-1 alpha-3": "ECU"
+        },
+        "Egypt": {
+            "ISO 3166-1 alpha-2": "EG",
+            "ISO 3166-1 alpha-3": "EGY"
+        },
+        "El Salvador": {
+            "ISO 3166-1 alpha-2": "SV",
+            "ISO 3166-1 alpha-3": "SLV"
+        },
+        "Equatorial Guinea": {
+            "ISO 3166-1 alpha-2": "GQ",
+            "ISO 3166-1 alpha-3": "GNQ"
+        },
+        "Eritrea": {
+            "ISO 3166-1 alpha-2": "ER",
+            "ISO 3166-1 alpha-3": "ERI"
+        },
+        "Estonia": {
+            "ISO 3166-1 alpha-2": "EE",
+            "ISO 3166-1 alpha-3": "EST"
+        },
+        "Ethiopia": {
+            "ISO 3166-1 alpha-2": "ET",
+            "ISO 3166-1 alpha-3": "ETH"
+        },
+        "Falkland Islands (Malvinas)": {
+            "ISO 3166-1 alpha-2": "FK",
+            "ISO 3166-1 alpha-3": "FLK"
+        },
+        "Faroe Islands": {
+            "ISO 3166-1 alpha-2": "FO",
+            "ISO 3166-1 alpha-3": "FRO"
+        },
+        "Fiji": {
+            "ISO 3166-1 alpha-2": "FJ",
+            "ISO 3166-1 alpha-3": "FJI"
+        },
+        "Finland": {
+            "ISO 3166-1 alpha-2": "FI",
+            "ISO 3166-1 alpha-3": "FIN"
+        },
+        "France": {
+            "ISO 3166-1 alpha-2": "FR",
+            "ISO 3166-1 alpha-3": "FRA"
+        },
+        "French Guiana": {
+            "ISO 3166-1 alpha-2": "GF",
+            "ISO 3166-1 alpha-3": "GUF"
+        },
+        "French Polynesia": {
+            "ISO 3166-1 alpha-2": "PF",
+            "ISO 3166-1 alpha-3": "PYF"
+        },
+        "French Southern Territories": {
+            "ISO 3166-1 alpha-2": "TF",
+            "ISO 3166-1 alpha-3": "ATF"
+        },
+        "Gabon": {
+            "ISO 3166-1 alpha-2": "GA",
+            "ISO 3166-1 alpha-3": "GAB"
+        },
+        "Gambia": {
+            "ISO 3166-1 alpha-2": "GM",
+            "ISO 3166-1 alpha-3": "GMB"
+        },
+        "Georgia": {
+            "ISO 3166-1 alpha-2": "GE",
+            "ISO 3166-1 alpha-3": "GEO"
+        },
+        "Germany": {
+            "ISO 3166-1 alpha-2": "DE",
+            "ISO 3166-1 alpha-3": "DEU"
+        },
+        "Ghana": {
+            "ISO 3166-1 alpha-2": "GH",
+            "ISO 3166-1 alpha-3": "GHA"
+        },
+        "Gibraltar": {
+            "ISO 3166-1 alpha-2": "GI",
+            "ISO 3166-1 alpha-3": "GIB"
+        },
+        "Greece": {
+            "ISO 3166-1 alpha-2": "GR",
+            "ISO 3166-1 alpha-3": "GRC"
+        },
+        "Greenland": {
+            "ISO 3166-1 alpha-2": "GL",
+            "ISO 3166-1 alpha-3": "GRL"
+        },
+        "Grenada": {
+            "ISO 3166-1 alpha-2": "GD",
+            "ISO 3166-1 alpha-3": "GRD"
+        },
+        "Guadeloupe": {
+            "ISO 3166-1 alpha-2": "GP",
+            "ISO 3166-1 alpha-3": "GLP"
+        },
+        "Guam": {
+            "ISO 3166-1 alpha-2": "GU",
+            "ISO 3166-1 alpha-3": "GUM"
+        },
+        "Guatemala": {
+            "ISO 3166-1 alpha-2": "GT",
+            "ISO 3166-1 alpha-3": "GTM"
+        },
+        "Guernsey": {
+            "ISO 3166-1 alpha-2": "GG",
+            "ISO 3166-1 alpha-3": "GGY"
+        },
+        "Guinea": {
+            "ISO 3166-1 alpha-2": "GN",
+            "ISO 3166-1 alpha-3": "GIN"
+        },
+        "Guinea-Bissau": {
+            "ISO 3166-1 alpha-2": "GW",
+            "ISO 3166-1 alpha-3": "GNB"
+        },
+        "Guyana": {
+            "ISO 3166-1 alpha-2": "GY",
+            "ISO 3166-1 alpha-3": "GUY"
+        },
+        "Haiti": {
+            "ISO 3166-1 alpha-2": "HT",
+            "ISO 3166-1 alpha-3": "HTI"
+        },
+        "Heard Island and McDonald Islands": {
+            "ISO 3166-1 alpha-2": "HM",
+            "ISO 3166-1 alpha-3": "HMD"
+        },
+        "Holy See": {
+            "ISO 3166-1 alpha-2": "VA",
+            "ISO 3166-1 alpha-3": "VAT"
+        },
+        "Honduras": {
+            "ISO 3166-1 alpha-2": "HN",
+            "ISO 3166-1 alpha-3": "HND"
+        },
+        "Hong Kong": {
+            "ISO 3166-1 alpha-2": "HK",
+            "ISO 3166-1 alpha-3": "HKG"
+        },
+        "Hungary": {
+            "ISO 3166-1 alpha-2": "HU",
+            "ISO 3166-1 alpha-3": "HUN"
+        },
+        "Iceland": {
+            "ISO 3166-1 alpha-2": "IS",
+            "ISO 3166-1 alpha-3": "ISL"
+        },
+        "India": {
+            "ISO 3166-1 alpha-2": "IN",
+            "ISO 3166-1 alpha-3": "IND"
+        },
+        "Indonesia": {
+            "ISO 3166-1 alpha-2": "ID",
+            "ISO 3166-1 alpha-3": "IDN"
+        },
+        "Iran, Islamic Republic of": {
+            "ISO 3166-1 alpha-2": "IR",
+            "ISO 3166-1 alpha-3": "IRN"
+        },
+        "Iraq": {
+            "ISO 3166-1 alpha-2": "IQ",
+            "ISO 3166-1 alpha-3": "IRQ"
+        },
+        "Ireland": {
+            "ISO 3166-1 alpha-2": "IE",
+            "ISO 3166-1 alpha-3": "IRL"
+        },
+        "Isle of Man": {
+            "ISO 3166-1 alpha-2": "IM",
+            "ISO 3166-1 alpha-3": "IMN"
+        },
+        "Israel": {
+            "ISO 3166-1 alpha-2": "IL",
+            "ISO 3166-1 alpha-3": "ISR"
+        },
+        "Italy": {
+            "ISO 3166-1 alpha-2": "IT",
+            "ISO 3166-1 alpha-3": "ITA"
+        },
+        "Italia": {
+            "ISO 3166-1 alpha-2": "IT",
+            "ISO 3166-1 alpha-3": "ITA"
+        },
+        "Jamaica": {
+            "ISO 3166-1 alpha-2": "JM",
+            "ISO 3166-1 alpha-3": "JAM"
+        },
+        "Japan": {
+            "ISO 3166-1 alpha-2": "JP",
+            "ISO 3166-1 alpha-3": "JPN"
+        },
+        "Jersey": {
+            "ISO 3166-1 alpha-2": "JE",
+            "ISO 3166-1 alpha-3": "JEY"
+        },
+        "Jordan": {
+            "ISO 3166-1 alpha-2": "JO",
+            "ISO 3166-1 alpha-3": "JOR"
+        },
+        "Kazakhstan": {
+            "ISO 3166-1 alpha-2": "KZ",
+            "ISO 3166-1 alpha-3": "KAZ"
+        },
+        "Kenya": {
+            "ISO 3166-1 alpha-2": "KE",
+            "ISO 3166-1 alpha-3": "KEN"
+        },
+        "Kiribati": {
+            "ISO 3166-1 alpha-2": "KI",
+            "ISO 3166-1 alpha-3": "KIR"
+        },
+        "Korea, Democratic People's Republic of": {
+            "ISO 3166-1 alpha-2": "KP",
+            "ISO 3166-1 alpha-3": "PRK"
+        },
+        "Korea, Republic of": {
+            "ISO 3166-1 alpha-2": "KR",
+            "ISO 3166-1 alpha-3": "KOR"
+        },
+        "Kuwait": {
+            "ISO 3166-1 alpha-2": "KW",
+            "ISO 3166-1 alpha-3": "KWT"
+        },
+        "Kyrgyzstan": {
+            "ISO 3166-1 alpha-2": "KG",
+            "ISO 3166-1 alpha-3": "KGZ"
+        },
+        "Lao People's Democratic Republic": {
+            "ISO 3166-1 alpha-2": "LA",
+            "ISO 3166-1 alpha-3": "LAO"
+        },
+        "Latvia": {
+            "ISO 3166-1 alpha-2": "LV",
+            "ISO 3166-1 alpha-3": "LVA"
+        },
+        "Lebanon": {
+            "ISO 3166-1 alpha-2": "LB",
+            "ISO 3166-1 alpha-3": "LBN"
+        },
+        "Lesotho": {
+            "ISO 3166-1 alpha-2": "LS",
+            "ISO 3166-1 alpha-3": "LSO"
+        },
+        "Liberia": {
+            "ISO 3166-1 alpha-2": "LR",
+            "ISO 3166-1 alpha-3": "LBR"
+        },
+        "Libya": {
+            "ISO 3166-1 alpha-2": "LY",
+            "ISO 3166-1 alpha-3": "LBY"
+        },
+        "Liechtenstein": {
+            "ISO 3166-1 alpha-2": "LI",
+            "ISO 3166-1 alpha-3": "LIE"
+        },
+        "Lithuania": {
+            "ISO 3166-1 alpha-2": "LT",
+            "ISO 3166-1 alpha-3": "LTU"
+        },
+        "Luxembourg": {
+            "ISO 3166-1 alpha-2": "LU",
+            "ISO 3166-1 alpha-3": "LUX"
+        },
+        "Macao": {
+            "ISO 3166-1 alpha-2": "MO",
+            "ISO 3166-1 alpha-3": "MAC"
+        },
+        "Macedonia, the former Yugoslav Republic of": {
+            "ISO 3166-1 alpha-2": "MK",
+            "ISO 3166-1 alpha-3": "MKD"
+        },
+        "Madagascar": {
+            "ISO 3166-1 alpha-2": "MG",
+            "ISO 3166-1 alpha-3": "MDG"
+        },
+        "Malawi": {
+            "ISO 3166-1 alpha-2": "MW",
+            "ISO 3166-1 alpha-3": "MWI"
+        },
+        "Malaysia": {
+            "ISO 3166-1 alpha-2": "MY",
+            "ISO 3166-1 alpha-3": "MYS"
+        },
+        "Maldives": {
+            "ISO 3166-1 alpha-2": "MV",
+            "ISO 3166-1 alpha-3": "MDV"
+        },
+        "Mali": {
+            "ISO 3166-1 alpha-2": "ML",
+            "ISO 3166-1 alpha-3": "MLI"
+        },
+        "Malta": {
+            "ISO 3166-1 alpha-2": "MT",
+            "ISO 3166-1 alpha-3": "MLT"
+        },
+        "Marshall Islands": {
+            "ISO 3166-1 alpha-2": "MH",
+            "ISO 3166-1 alpha-3": "MHL"
+        },
+        "Martinique": {
+            "ISO 3166-1 alpha-2": "MQ",
+            "ISO 3166-1 alpha-3": "MTQ"
+        },
+        "Mauritania": {
+            "ISO 3166-1 alpha-2": "MR",
+            "ISO 3166-1 alpha-3": "MRT"
+        },
+        "Mauritius": {
+            "ISO 3166-1 alpha-2": "MU",
+            "ISO 3166-1 alpha-3": "MUS"
+        },
+        "Mayotte": {
+            "ISO 3166-1 alpha-2": "YT",
+            "ISO 3166-1 alpha-3": "MYT"
+        },
+        "Mexico": {
+            "ISO 3166-1 alpha-2": "MX",
+            "ISO 3166-1 alpha-3": "MEX"
+        },
+        "Micronesia, Federated States of": {
+            "ISO 3166-1 alpha-2": "FM",
+            "ISO 3166-1 alpha-3": "FSM"
+        },
+        "Moldova, Republic of": {
+            "ISO 3166-1 alpha-2": "MD",
+            "ISO 3166-1 alpha-3": "MDA"
+        },
+        "Monaco": {
+            "ISO 3166-1 alpha-2": "MC",
+            "ISO 3166-1 alpha-3": "MCO"
+        },
+        "Mongolia": {
+            "ISO 3166-1 alpha-2": "MN",
+            "ISO 3166-1 alpha-3": "MNG"
+        },
+        "Montenegro": {
+            "ISO 3166-1 alpha-2": "ME",
+            "ISO 3166-1 alpha-3": "MNE"
+        },
+        "Montserrat": {
+            "ISO 3166-1 alpha-2": "MS",
+            "ISO 3166-1 alpha-3": "MSR"
+        },
+        "Morocco": {
+            "ISO 3166-1 alpha-2": "MA",
+            "ISO 3166-1 alpha-3": "MAR"
+        },
+        "Mozambique": {
+            "ISO 3166-1 alpha-2": "MZ",
+            "ISO 3166-1 alpha-3": "MOZ"
+        },
+        "Myanmar": {
+            "ISO 3166-1 alpha-2": "MM",
+            "ISO 3166-1 alpha-3": "MMR"
+        },
+        "Namibia": {
+            "ISO 3166-1 alpha-2": "NA",
+            "ISO 3166-1 alpha-3": "NAM"
+        },
+        "Nauru": {
+            "ISO 3166-1 alpha-2": "NR",
+            "ISO 3166-1 alpha-3": "NRU"
+        },
+        "Nepal": {
+            "ISO 3166-1 alpha-2": "NP",
+            "ISO 3166-1 alpha-3": "NPL"
+        },
+        "Netherlands": {
+            "ISO 3166-1 alpha-2": "NL",
+            "ISO 3166-1 alpha-3": "NLD"
+        },
+        "New Caledonia": {
+            "ISO 3166-1 alpha-2": "NC",
+            "ISO 3166-1 alpha-3": "NCL"
+        },
+        "New Zealand": {
+            "ISO 3166-1 alpha-2": "NZ",
+            "ISO 3166-1 alpha-3": "NZL"
+        },
+        "New Zealand/Aotearoa": {
+            "ISO 3166-1 alpha-2": "NZ",
+            "ISO 3166-1 alpha-3": "NZL"
+        },
+        "Nicaragua": {
+            "ISO 3166-1 alpha-2": "NI",
+            "ISO 3166-1 alpha-3": "NIC"
+        },
+        "Niger": {
+            "ISO 3166-1 alpha-2": "NE",
+            "ISO 3166-1 alpha-3": "NER"
+        },
+        "Nigeria": {
+            "ISO 3166-1 alpha-2": "NG",
+            "ISO 3166-1 alpha-3": "NGA"
+        },
+        "Niue": {
+            "ISO 3166-1 alpha-2": "NU",
+            "ISO 3166-1 alpha-3": "NIU"
+        },
+        "Norfolk Island": {
+            "ISO 3166-1 alpha-2": "NF",
+            "ISO 3166-1 alpha-3": "NFK"
+        },
+        "Northern Mariana Islands": {
+            "ISO 3166-1 alpha-2": "MP",
+            "ISO 3166-1 alpha-3": "MNP"
+        },
+        "Norway": {
+            "ISO 3166-1 alpha-2": "NO",
+            "ISO 3166-1 alpha-3": "NOR"
+        },
+        "Oman": {
+            "ISO 3166-1 alpha-2": "OM",
+            "ISO 3166-1 alpha-3": "OMN"
+        },
+        "Pakistan": {
+            "ISO 3166-1 alpha-2": "PK",
+            "ISO 3166-1 alpha-3": "PAK"
+        },
+        "Palau": {
+            "ISO 3166-1 alpha-2": "PW",
+            "ISO 3166-1 alpha-3": "PLW"
+        },
+        "Palestine, State of": {
+            "ISO 3166-1 alpha-2": "PS",
+            "ISO 3166-1 alpha-3": "PSE"
+        },
+        "Panama": {
+            "ISO 3166-1 alpha-2": "PA",
+            "ISO 3166-1 alpha-3": "PAN"
+        },
+        "Papua New Guinea": {
+            "ISO 3166-1 alpha-2": "PG",
+            "ISO 3166-1 alpha-3": "PNG"
+        },
+        "Paraguay": {
+            "ISO 3166-1 alpha-2": "PY",
+            "ISO 3166-1 alpha-3": "PRY"
+        },
+        "Peru": {
+            "ISO 3166-1 alpha-2": "PE",
+            "ISO 3166-1 alpha-3": "PER"
+        },
+        "Philippines": {
+            "ISO 3166-1 alpha-2": "PH",
+            "ISO 3166-1 alpha-3": "PHL"
+        },
+        "Pitcairn": {
+            "ISO 3166-1 alpha-2": "PN",
+            "ISO 3166-1 alpha-3": "PCN"
+        },
+        "Poland": {
+            "ISO 3166-1 alpha-2": "PL",
+            "ISO 3166-1 alpha-3": "POL"
+        },
+        "Portugal": {
+            "ISO 3166-1 alpha-2": "PT",
+            "ISO 3166-1 alpha-3": "PRT"
+        },
+        "Puerto Rico": {
+            "ISO 3166-1 alpha-2": "PR",
+            "ISO 3166-1 alpha-3": "PRI"
+        },
+        "Qatar": {
+            "ISO 3166-1 alpha-2": "QA",
+            "ISO 3166-1 alpha-3": "QAT"
+        },
+        "Réunion": {
+            "ISO 3166-1 alpha-2": "RE",
+            "ISO 3166-1 alpha-3": "REU"
+        },
+        "Romania": {
+            "ISO 3166-1 alpha-2": "RO",
+            "ISO 3166-1 alpha-3": "ROU"
+        },
+        "Russian Federation": {
+            "ISO 3166-1 alpha-2": "RU",
+            "ISO 3166-1 alpha-3": "RUS"
+        },
+        "Rwanda": {
+            "ISO 3166-1 alpha-2": "RW",
+            "ISO 3166-1 alpha-3": "RWA"
+        },
+        "Saint Barthélemy": {
+            "ISO 3166-1 alpha-2": "BL",
+            "ISO 3166-1 alpha-3": "BLM"
+        },
+        "Saint Helena, Ascension and Tristan da Cunha": {
+            "ISO 3166-1 alpha-2": "SH",
+            "ISO 3166-1 alpha-3": "SHN"
+        },
+        "Saint Kitts and Nevis": {
+            "ISO 3166-1 alpha-2": "KN",
+            "ISO 3166-1 alpha-3": "KNA"
+        },
+        "Saint Lucia": {
+            "ISO 3166-1 alpha-2": "LC",
+            "ISO 3166-1 alpha-3": "LCA"
+        },
+        "Saint Martin (French part)": {
+            "ISO 3166-1 alpha-2": "MF",
+            "ISO 3166-1 alpha-3": "MAF"
+        },
+        "Saint Pierre and Miquelon": {
+            "ISO 3166-1 alpha-2": "PM",
+            "ISO 3166-1 alpha-3": "SPM"
+        },
+        "Saint Vincent and the Grenadines": {
+            "ISO 3166-1 alpha-2": "VC",
+            "ISO 3166-1 alpha-3": "VCT"
+        },
+        "Samoa": {
+            "ISO 3166-1 alpha-2": "WS",
+            "ISO 3166-1 alpha-3": "WSM"
+        },
+        "San Marino": {
+            "ISO 3166-1 alpha-2": "SM",
+            "ISO 3166-1 alpha-3": "SMR"
+        },
+        "Sao Tome and Principe": {
+            "ISO 3166-1 alpha-2": "ST",
+            "ISO 3166-1 alpha-3": "STP"
+        },
+        "Saudi Arabia": {
+            "ISO 3166-1 alpha-2": "SA",
+            "ISO 3166-1 alpha-3": "SAU"
+        },
+        "Senegal": {
+            "ISO 3166-1 alpha-2": "SN",
+            "ISO 3166-1 alpha-3": "SEN"
+        },
+        "Serbia": {
+            "ISO 3166-1 alpha-2": "RS",
+            "ISO 3166-1 alpha-3": "SRB"
+        },
+        "Seychelles": {
+            "ISO 3166-1 alpha-2": "SC",
+            "ISO 3166-1 alpha-3": "SYC"
+        },
+        "Sierra Leone": {
+            "ISO 3166-1 alpha-2": "SL",
+            "ISO 3166-1 alpha-3": "SLE"
+        },
+        "Singapore": {
+            "ISO 3166-1 alpha-2": "SG",
+            "ISO 3166-1 alpha-3": "SGP"
+        },
+        "Sint Maarten (Dutch part)": {
+            "ISO 3166-1 alpha-2": "SX",
+            "ISO 3166-1 alpha-3": "SXM"
+        },
+        "Slovakia": {
+            "ISO 3166-1 alpha-2": "SK",
+            "ISO 3166-1 alpha-3": "SVK"
+        },
+        "Slovenia": {
+            "ISO 3166-1 alpha-2": "SI",
+            "ISO 3166-1 alpha-3": "SVN"
+        },
+        "Solomon Islands": {
+            "ISO 3166-1 alpha-2": "SB",
+            "ISO 3166-1 alpha-3": "SLB"
+        },
+        "Somalia": {
+            "ISO 3166-1 alpha-2": "SO",
+            "ISO 3166-1 alpha-3": "SOM"
+        },
+        "South Africa": {
+            "ISO 3166-1 alpha-2": "ZA",
+            "ISO 3166-1 alpha-3": "ZAF"
+        },
+        "South Georgia and the South Sandwich Islands": {
+            "ISO 3166-1 alpha-2": "GS",
+            "ISO 3166-1 alpha-3": "SGS"
+        },
+        "South Sudan": {
+            "ISO 3166-1 alpha-2": "SS",
+            "ISO 3166-1 alpha-3": "SSD"
+        },
+        "Spain": {
+            "ISO 3166-1 alpha-2": "ES",
+            "ISO 3166-1 alpha-3": "ESP"
+        },
+        "Sri Lanka": {
+            "ISO 3166-1 alpha-2": "LK",
+            "ISO 3166-1 alpha-3": "LKA"
+        },
+        "Sudan": {
+            "ISO 3166-1 alpha-2": "SD",
+            "ISO 3166-1 alpha-3": "SDN"
+        },
+        "Suriname": {
+            "ISO 3166-1 alpha-2": "SR",
+            "ISO 3166-1 alpha-3": "SUR"
+        },
+        "Svalbard and Jan Mayen": {
+            "ISO 3166-1 alpha-2": "SJ",
+            "ISO 3166-1 alpha-3": "SJM"
+        },
+        "Swaziland": {
+            "ISO 3166-1 alpha-2": "SZ",
+            "ISO 3166-1 alpha-3": "SWZ"
+        },
+        "Sweden": {
+            "ISO 3166-1 alpha-2": "SE",
+            "ISO 3166-1 alpha-3": "SWE"
+        },
+        "Switzerland": {
+            "ISO 3166-1 alpha-2": "CH",
+            "ISO 3166-1 alpha-3": "CHE"
+        },
+        "Syrian Arab Republic": {
+            "ISO 3166-1 alpha-2": "SY",
+            "ISO 3166-1 alpha-3": "SYR"
+        },
+        "Taiwan, Province of China": {
+            "ISO 3166-1 alpha-2": "TW",
+            "ISO 3166-1 alpha-3": "TWN"
+        },
+        "Tajikistan": {
+            "ISO 3166-1 alpha-2": "TJ",
+            "ISO 3166-1 alpha-3": "TJK"
+        },
+        "Tanzania, United Republic of": {
+            "ISO 3166-1 alpha-2": "TZ",
+            "ISO 3166-1 alpha-3": "TZA"
+        },
+        "Thailand": {
+            "ISO 3166-1 alpha-2": "TH",
+            "ISO 3166-1 alpha-3": "THA"
+        },
+        "Timor-Leste": {
+            "ISO 3166-1 alpha-2": "TL",
+            "ISO 3166-1 alpha-3": "TLS"
+        },
+        "Togo": {
+            "ISO 3166-1 alpha-2": "TG",
+            "ISO 3166-1 alpha-3": "TGO"
+        },
+        "Tokelau": {
+            "ISO 3166-1 alpha-2": "TK",
+            "ISO 3166-1 alpha-3": "TKL"
+        },
+        "Tonga": {
+            "ISO 3166-1 alpha-2": "TO",
+            "ISO 3166-1 alpha-3": "TON"
+        },
+        "Trinidad and Tobago": {
+            "ISO 3166-1 alpha-2": "TT",
+            "ISO 3166-1 alpha-3": "TTO"
+        },
+        "Tunisia": {
+            "ISO 3166-1 alpha-2": "TN",
+            "ISO 3166-1 alpha-3": "TUN"
+        },
+        "Turkey": {
+            "ISO 3166-1 alpha-2": "TR",
+            "ISO 3166-1 alpha-3": "TUR"
+        },
+        "Turkmenistan": {
+            "ISO 3166-1 alpha-2": "TM",
+            "ISO 3166-1 alpha-3": "TKM"
+        },
+        "Turks and Caicos Islands": {
+            "ISO 3166-1 alpha-2": "TC",
+            "ISO 3166-1 alpha-3": "TCA"
+        },
+        "Tuvalu": {
+            "ISO 3166-1 alpha-2": "TV",
+            "ISO 3166-1 alpha-3": "TUV"
+        },
+        "Uganda": {
+            "ISO 3166-1 alpha-2": "UG",
+            "ISO 3166-1 alpha-3": "UGA"
+        },
+        "Ukraine": {
+            "ISO 3166-1 alpha-2": "UA",
+            "ISO 3166-1 alpha-3": "UKR"
+        },
+        "United Arab Emirates": {
+            "ISO 3166-1 alpha-2": "AE",
+            "ISO 3166-1 alpha-3": "ARE"
+        },
+        "United Kingdom": {
+            "ISO 3166-1 alpha-2": "GB",
+            "ISO 3166-1 alpha-3": "GBR"
+        },
+        "United Kingdom of Great Britain and Northern Ireland": {
+            "ISO 3166-1 alpha-2": "GB",
+            "ISO 3166-1 alpha-3": "GBR"
+        },
+        "United States Minor Outlying Islands": {
+            "ISO 3166-1 alpha-2": "UM",
+            "ISO 3166-1 alpha-3": "USA"
+        },
+        "United States of America": {
+            "ISO 3166-1 alpha-2": "US",
+            "ISO 3166-1 alpha-3": "UMI"
+        },
+        "Uruguay": {
+            "ISO 3166-1 alpha-2": "UY",
+            "ISO 3166-1 alpha-3": "URY"
+        },
+        "Uzbekistan": {
+            "ISO 3166-1 alpha-2": "UZ",
+            "ISO 3166-1 alpha-3": "UZB"
+        },
+        "Vanuatu": {
+            "ISO 3166-1 alpha-2": "VU",
+            "ISO 3166-1 alpha-3": "VUT"
+        },
+        "Venezuela, Bolivarian Republic of": {
+            "ISO 3166-1 alpha-2": "VE",
+            "ISO 3166-1 alpha-3": "VEN"
+        },
+        "Viet Nam": {
+            "ISO 3166-1 alpha-2": "VN",
+            "ISO 3166-1 alpha-3": "VNM"
+        },
+        "Virgin Islands, British": {
+            "ISO 3166-1 alpha-2": "VG",
+            "ISO 3166-1 alpha-3": "VGB"
+        },
+        "Virgin Islands, U.S.": {
+            "ISO 3166-1 alpha-2": "VI",
+            "ISO 3166-1 alpha-3": "VIR"
+        },
+        "Wallis and Futuna": {
+            "ISO 3166-1 alpha-2": "WF",
+            "ISO 3166-1 alpha-3": "WLF"
+        },
+        "Western Sahara": {
+            "ISO 3166-1 alpha-2": "EH",
+            "ISO 3166-1 alpha-3": "ESH"
+        },
+        "Yemen": {
+            "ISO 3166-1 alpha-2": "YE",
+            "ISO 3166-1 alpha-3": "YEM"
+        },
+        "Zambia": {
+            "ISO 3166-1 alpha-2": "ZM",
+            "ISO 3166-1 alpha-3": "ZMB"
+        },
+        "Zimbabwe": {
+            "ISO 3166-1 alpha-2": "ZW",
+            "ISO 3166-1 alpha-3": "ZWE"
+        }
+    }
+}
