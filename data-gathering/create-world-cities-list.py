@@ -5,7 +5,7 @@ import urllib, urllib2
 import xml.etree.ElementTree as ET
 
 api_url     = "http://overpass-api.de/api/interpreter"
-output_file = "~/Desktop/world_places.css"
+output_file = "/Users/dhuse/Desktop/world_places.css"
 
 try:
     progress = 0.0
